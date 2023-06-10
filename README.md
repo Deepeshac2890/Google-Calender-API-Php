@@ -1,4 +1,4 @@
-# Google-Calender-API-Php
+# Google-Calender-API-PHP
 Integration of Google calender api in PHP
 https://googlecalendertrial.deepeshacharya.repl.co/
 
